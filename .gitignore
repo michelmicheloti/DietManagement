@@ -1,0 +1,49 @@
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Visual Studio
+.vs/
+/bin/
+/obj/
+/*.suo
+/*.user
+/*.userosscache
+/*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Package Files
+*.nupkg
+*.pck
+*.dll
+*.exe
+*.pdb
+*.zip
+*.tar.gz
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Environment-based files
+*.env
+*.env.local
+*.env.development
+*.env.test
+*.env.production
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/bin
+**/obj
